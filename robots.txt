@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://icvy8m2x.online/sitemap.xml
